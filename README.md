@@ -36,7 +36,7 @@ To create a personal homepage showcasing professional and personal portfolio as 
 ![Gallery](./images/palette2.jpg)
 
 ## Live Webpage
-
+https://ananyaamylsamy-lab.github.io/ananyaa/
 
 ## File Structure
 ```

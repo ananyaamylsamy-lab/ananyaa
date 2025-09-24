@@ -26,10 +26,14 @@ To create a personal homepage showcasing professional and personal portfolio as 
 ![Homepage](./images/homepage.jpg)
 
 ### Portfolio Page  
-![Portfolio](./images/work.jpg)
+![Portfolio](./images/work1.jpg)
+
+![Portfolio](./images/work2.jpg)
 
 ### Art Gallery
-![Gallery](./images/palette.jpg)
+![Gallery](./images/palette1.jpg)
+
+![Gallery](./images/palette2.jpg)
 
 ## File Structure
 ```

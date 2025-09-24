@@ -1,0 +1,29 @@
+{
+  "name": "ananyaa-mylsamy-homepage",
+  "version": "1.0.0",
+  "description": "Ananyaa Mylsamy - Personal homepage",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "http-server . -p 8080",
+    "dev": "http-server . -p 3000 -o"
+  },
+  "author": {
+    "name": "Ananyaa Mylsamy",
+    "email": "mylsamy.a@northeastern.edu",
+    "url": "https://www.linkedin.com/in/ananyaa-mylsamy/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anumyl/ananyaa-mylsamy-homepage"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "eslint": "^9.36.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.4.0",
+    "http-server": "^14.1.1",
+    "prettier": "^3.6.2"
+  }
+}

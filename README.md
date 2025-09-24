@@ -38,6 +38,12 @@ To create a personal homepage showcasing professional and personal portfolio as 
 ## Live Webpage
 https://ananyaamylsamy-lab.github.io/ananyaa/
 
+## Slides
+https://docs.google.com/presentation/d/1S39pebpdqdpw4WFX63jqAzWxFOivouvSpFc_vkAqwYI/edit?slide=id.p#slide=id.p
+
+## Documentation
+https://docs.google.com/document/d/1TnyWS7vrdXTU7dmRaFEkdhuTFBsGt7htq5z7Ehx0ri0/edit?tab=t.0
+
 ## File Structure
 ```
 project-root/
@@ -47,7 +53,7 @@ project-root/
 ├── package.json            # Project dependencies and scripts
 ├── README.md               # This file
 ├── css/
-│   ├── layout.css          # Shared styles (navigation, footer, common elements)
+│   ├── layout.css          # Shared styles
 │   ├── homepage.css        # Homepage-specific styles
 │   ├── work.css            # Portfolio page styles
 │   └── palette.css         # Art page styles

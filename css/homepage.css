@@ -90,8 +90,13 @@
   color: #333;
   font-size: 2.5rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin-bottom: 2rem;
   line-height: 1.1;
+}
+
+.tagline {
+  margin-top: 1rem;
+  font-weight: 500;
 }
 
 .action-buttons {
